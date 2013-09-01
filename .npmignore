@@ -1,0 +1,3 @@
+lib/*.coffee
+Makefile
+tests/*
