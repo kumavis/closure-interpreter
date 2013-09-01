@@ -1,6 +1,7 @@
 {
   "name": "closure-interpreter",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "main": "./lib/closure-interpreter.js",
   "dependencies": {
     "esprima": "git+https://github.com/ariya/esprima.git#harmony",
     "estraverse": "*"
