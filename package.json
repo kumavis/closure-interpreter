@@ -7,6 +7,6 @@
     "estraverse": "*"
   },
   "devDependencies": {
-    "microtime": "*"
+    "microtime": ">=2.1.5"
   }
 }
